@@ -1,10 +1,13 @@
-### Olá! Eu sou o Wendell Almeida
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/wendell-almeida/" target="_blank"><i>Wendell Almeida</i></a></h1>
+  <p align="center">Desenvolvedor Full-stack </p 
+</div>
 
 Bem vindo ao meu Git 🤜🤛
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-almeida/)
-
+<a href="mailto:wendellpealmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
@@ -13,9 +16,8 @@ Bem vindo ao meu Git 🤜🤛
 
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellpAlmeida&show_icons=true&theme=cobalt)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&hide_border=false&&layout=compact) 
 
 ## Tecnologias que uso no meu dia 
 <div style="display: inline_block"><br/>
