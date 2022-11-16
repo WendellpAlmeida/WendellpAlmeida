@@ -1,5 +1,8 @@
 ### Olá, Eu sou o Wendell Almeida
 
+Bem vindo ao meu Git 🤜🤛
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-almeida/)
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellpAlmeida&show_icons=true&theme=cobalt)
@@ -16,4 +19,10 @@
  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+</div><br/>
+
+
+Apaixonado por Desenvolver e pela tencnologia ❤️
+
+                 - "A única maneira de fazer algo excelente é amar o que você faz" 
+                                                "Steve Jobs "
