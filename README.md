@@ -1,4 +1,4 @@
-### Olá, Eu sou o Wendell Almeida
+### Olá! Eu sou o Wendell Almeida
 
 Bem vindo ao meu Git 🤜🤛
 
