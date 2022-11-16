@@ -24,7 +24,7 @@ Bem vindo ao meu Git 🤜🤛
 </div><br/>
 
 
-Apaixonado por Desenvolver e pela tencnologia ❤️
+Apaixonado por Desenvolver e pela tencnologia 💖
 
                  - "A única maneira de fazer algo excelente é amar o que você faz" 
                                                 "Steve Jobs "
