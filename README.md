@@ -5,9 +5,9 @@
 
 Bem vindo ao meu Git 🤜🤛
     
-    da um pulinho la no meu portfolio ? 
+    Da um pulinho la no meu Portfolio ? 
     
-    https://wendellpalmeida.github.io/Wendell-Almeida/
+   <a href="https://github.com/WendellpAlmeida](https://wendellpalmeida.github.io/Wendell-Almeida" target="_blank">
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-almeida/)
