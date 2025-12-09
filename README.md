@@ -19,9 +19,7 @@ Bem vindo ao meu Git 🤜🤛
 
 
 
-![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=WendellpAlmeida&show_icons=true&theme=cobalt)
-   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendellpAlmeida&theme=dracula&hide_border=false&&layout=compact) 
+
 
 ## Tecnologias que uso no meu dia 
 <div style="display: inline_block"><br/>
